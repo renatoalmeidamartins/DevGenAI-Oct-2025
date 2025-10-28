@@ -24,3 +24,4 @@
 - [Sagemaker model monitor - creates benchamrks and, at chosen intervals, reevaluate the model against the baseline](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
 - [Bedrock AgentCore is now generally available - building blocks for creating agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/)
 - [Bedrock supports API keys since July 2025](https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
+- [bedrock-runtime, a single API for all model invoking operations. Basically, has 2 methods: invoke, converse (and their streaming variants)](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_Operations_Amazon_Bedrock_Runtime.html)
