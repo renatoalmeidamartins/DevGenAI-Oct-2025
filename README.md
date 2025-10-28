@@ -37,3 +37,5 @@
 - [Prompt guidelines for different models](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Prompt design for Claude 3 - already obsolete, but the idea that you can optimize for a specific model family remains](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-techniques-and-best-practices-learn-by-doing-with-anthropics-claude-3-on-amazon-bedrock/)
 - [Prompt engineering ideas on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Converse API from bedrock-runtime, standardize on the inference parameter names](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html)
+- [Announcement of the Converse API availability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
