@@ -44,3 +44,5 @@
   - [GenAI threats](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
   - [GenAI OWASP](https://genai.owasp.org/)
   - [Mitigation strategies for GenAI attacks](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+  - [Tool for jailbreaking models](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
+  - [Research about reducing models' attack surface](https://arxiv.org/abs/2410.15236)
