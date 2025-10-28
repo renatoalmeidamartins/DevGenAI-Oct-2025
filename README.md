@@ -29,3 +29,4 @@
 - [Bedrock quotas](docs.aws.amazon.com/general/latest/gr/bedrock.html)
 - [Bedrock pricing, typically pay-as-you-go (input and output tokens)](https://aws.amazon.com/bedrock/pricing/)
 - [Bedrock provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
+- [Bedrock no longer requires requesting model approval](https://aws.amazon.com/blogs/security/simplified-amazon-bedrock-model-access/)
