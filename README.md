@@ -23,4 +23,4 @@
 - [Sagemaker Clarify for model explainability - it excels at traditional ML, but there's also features "bedrock evaluations" to assess GenAI models](https://docs.aws.amazon.com/en_us/sagemaker/latest/dg/model-explainability.html)
 - [Sagemaker model monitor - creates benchamrks and, at chosen intervals, reevaluate the model against the baseline](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
 - [Bedrock AgentCore is now generally available - building blocks for creating agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/)
-- 
+- [Bedrock supports API keys since July 2025](https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
