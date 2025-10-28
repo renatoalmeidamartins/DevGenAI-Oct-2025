@@ -14,3 +14,4 @@
 # Day 1 links
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [AI winter](https://en.wikipedia.org/wiki/AI_winter)
