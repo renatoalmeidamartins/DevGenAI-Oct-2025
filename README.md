@@ -25,3 +25,7 @@
 - [Bedrock AgentCore is now generally available - building blocks for creating agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/)
 - [Bedrock supports API keys since July 2025](https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
 - [bedrock-runtime, a single API for all model invoking operations. Basically, has 2 methods: invoke, converse (and their streaming variants)](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_Operations_Amazon_Bedrock_Runtime.html)
+- [Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [Bedrock quotas](docs.aws.amazon.com/general/latest/gr/bedrock.html)
+- [Bedrock pricing, typically pay-as-you-go (input and output tokens)](https://aws.amazon.com/bedrock/pricing/)
+- [Bedrock provisioned throughput](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
