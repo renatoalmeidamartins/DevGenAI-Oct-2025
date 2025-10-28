@@ -39,3 +39,8 @@
 - [Prompt engineering ideas on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Converse API from bedrock-runtime, standardize on the inference parameter names](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html)
 - [Announcement of the Converse API availability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
+- Security aspects of prompting
+  - [Hacking LLM-driven robots](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security)
+  - [GenAI threats](https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/)
+  - [GenAI OWASP](https://genai.owasp.org/)
+  - [Mitigation strategies for GenAI attacks](https://www.youtube.com/watch?v=ewxCqXYoz4A)
