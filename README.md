@@ -20,3 +20,6 @@
 - [Open weight models from OpenAI supported on Bedrock](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 - [Clean code, a handbook of agile software craftmanship - advocates that clean code needs very limited comments](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Customizing models through - continued pre-training, fine-tuning and distillation](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
+- [Sagemaker Clarify for model explainability - it excels at traditional ML, but there's also features "bedrock evaluations" to assess GenAI models](https://docs.aws.amazon.com/en_us/sagemaker/latest/dg/model-explainability.html)
+- [Sagemaker model monitor - creates benchamrks and, at chosen intervals, reevaluate the model against the baseline](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- 
