@@ -19,4 +19,4 @@
 - [Llama model leaked on 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
 - [Open weight models from OpenAI supported on Bedrock](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 - [Clean code, a handbook of agile software craftmanship - advocates that clean code needs very limited comments](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- 
+- [Customizing models through - continued pre-training, fine-tuning and distillation](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
