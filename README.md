@@ -10,3 +10,6 @@
 - [Skill builder](https://skillbuilder.aws/learn)
 - [Skill builder subscriptions](https://skillbuilder.aws/subscriptions)
 - [Cloud quest for Gen AI practitioner](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V)
+
+# Day 1 links
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
