@@ -46,3 +46,9 @@
   - [Mitigation strategies for GenAI attacks](https://www.youtube.com/watch?v=ewxCqXYoz4A)
   - [Tool for jailbreaking models](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
   - [Research about reducing models' attack surface](https://arxiv.org/abs/2410.15236)
+
+# Day 2 links
+- [OpenSearch as a vector database](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
+- [Faiss, an open source vector database from Facebook](https://github.com/facebookresearch/faiss)
+- [Prescriptive guidance about vector databases for RAG](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/introduction.html)
+- 
