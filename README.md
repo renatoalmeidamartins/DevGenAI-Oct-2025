@@ -63,4 +63,9 @@
     - Creates a class that implements retry/backoff. Important to know that AWS SDKs have this [functionality built-in](https://docs.aws.amazon.com/sdkref/latest/guide/feature-retry-behavior.html)
     - Calls a function to count tokens, [get_num_tokens](https://python.langchain.com/api_reference/community/callbacks/langchain_community.callbacks.infino_callback.get_num_tokens.html), which is based on the documentation from [this OpenAI notebook](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
     - Uses a text splitter. Multiple are available in langchain. More info [here](https://python.langchain.com/docs/concepts/text_splitters/)
+    - Creates a chain to do summarization, using [load_summarize_chain](https://python.langchain.com/api_reference/langchain/chains/langchain.chains.summarize.chain.load_summarize_chain.html)
+  - Task 3 doesn't use Langchain
+  - Task 4
+    - chat history through [InMemoryChatMessageHistory](https://python.langchain.com/api_reference/core/chat_history/langchain_core.chat_history.InMemoryChatMessageHistory.html) class
+    - Does some RAG by loading a FAISS vector store, based on the implementation in [this blog article](https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/)
     
