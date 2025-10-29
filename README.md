@@ -73,5 +73,5 @@
     - Based on the [ReAct framework](https://www.promptingguide.ai/techniques/react), defines agents
     - Agents are based on tools and [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
     - [ReAct in the promptingguide](https://www.promptingguide.ai/techniques/react)
-  - [PromptingGuide.ai](https://www.promptingguide.ai/), a really good site talking about prompt engineering concepts
+- [PromptingGuide.ai](https://www.promptingguide.ai/), a really good site talking about prompt engineering concepts
   
