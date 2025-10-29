@@ -68,4 +68,10 @@
   - Task 4
     - chat history through [InMemoryChatMessageHistory](https://python.langchain.com/api_reference/core/chat_history/langchain_core.chat_history.InMemoryChatMessageHistory.html) class
     - Does some RAG by loading a FAISS vector store, based on the implementation in [this blog article](https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/)
-    
+  - Task 5, doesn't use Langchain
+  - Task 6
+    - Based on the [ReAct framework](https://www.promptingguide.ai/techniques/react), defines agents
+    - Agents are based on tools and [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
+    - [ReAct in the promptingguide](https://www.promptingguide.ai/techniques/react)
+  - [PromptingGuide.ai](https://www.promptingguide.ai/), a really good site talking about prompt engineering concepts
+  
