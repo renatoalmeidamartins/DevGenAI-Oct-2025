@@ -53,3 +53,6 @@
 - [Prescriptive guidance about vector databases for RAG](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/introduction.html)
 - [Features supported (input/output modalities, model-id, ...) for all models supported by Bedrock, with a link to their additional details and inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
 - [Inference parameters for Bedrock models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
+- [Langchain repo](https://python.langchain.com/docs/integrations/chat/)
+- [Langchain documentation](https://docs.langchain.com/oss/python/langchain/overview)
+- 
