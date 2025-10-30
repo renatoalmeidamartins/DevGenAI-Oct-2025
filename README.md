@@ -88,3 +88,7 @@
 
 # Day "3"  links
 - This standard for prompts was used in the Jam, so relevant to add here the [COSTAR - Context, Objective, Style, Tone, Audience, Response](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/) pattern
+- [Gen AI Developer professional exam is coming, probably live early 2026](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
+- [MCP - Model Context Protocol,  an open protocol that enables seamless integration between LLM applications and external data sources and tools](https://modelcontextprotocol.io/)
+- [List of MCP servers](https://github.com/modelcontextprotocol/servers)
+- [A2A, the Agent2Agent (A2A) Protocol, an open standard designed to enable seamless communication and collaboration between AI agents](https://a2a-protocol.org/latest/) 
