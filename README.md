@@ -93,3 +93,5 @@
 - [List of MCP servers](https://github.com/modelcontextprotocol/servers)
 - [A2A, the Agent2Agent (A2A) Protocol, an open standard designed to enable seamless communication and collaboration between AI agents](https://a2a-protocol.org/latest/)
 - [Using the converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference-examples.html)
+- [Converse API announcement](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
+- [Using tools with the Converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/tool-use-examples.html)
