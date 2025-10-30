@@ -95,3 +95,5 @@
 - [Using the converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference-examples.html)
 - [Converse API announcement](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
 - [Using tools with the Converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/tool-use-examples.html)
+- [Announcing Strands SDK with a deep dive](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Repo full of Strands SDK samples](https://github.com/strands-agents/samples)
