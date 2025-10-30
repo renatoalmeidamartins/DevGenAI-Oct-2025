@@ -1,5 +1,16 @@
 # DevGenAI-Oct-2025
 
+
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
 # Class links
 - [Access to lab and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%23gqFdeYYEWC3APQa9JXEQ5G)
 - [Direct meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m5ac9d1b25ec41fa1322f4a1ab7a11c55)
@@ -74,4 +85,6 @@
     - Agents are based on tools and [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
     - [ReAct in the promptingguide](https://www.promptingguide.ai/techniques/react)
 - [PromptingGuide.ai](https://www.promptingguide.ai/), a really good site talking about prompt engineering concepts
-  
+
+# Day "3"  links
+- This standard for prompts was used in the Jam, so relevant to add here the [COSTAR - Context, Objective, Style, Tone, Audience, Response](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/) pattern
