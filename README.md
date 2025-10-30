@@ -91,4 +91,5 @@
 - [Gen AI Developer professional exam is coming, probably live early 2026](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
 - [MCP - Model Context Protocol,  an open protocol that enables seamless integration between LLM applications and external data sources and tools](https://modelcontextprotocol.io/)
 - [List of MCP servers](https://github.com/modelcontextprotocol/servers)
-- [A2A, the Agent2Agent (A2A) Protocol, an open standard designed to enable seamless communication and collaboration between AI agents](https://a2a-protocol.org/latest/) 
+- [A2A, the Agent2Agent (A2A) Protocol, an open standard designed to enable seamless communication and collaboration between AI agents](https://a2a-protocol.org/latest/)
+- [Using the converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference-examples.html)
